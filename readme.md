@@ -50,6 +50,7 @@ A list of common words can be found at [thai-language.com/ref/phrases](http://ww
 Use one of the following apps to ensure that the driver will follow the meter:
 - [GrabTaxi](http://grabtaxi.com/bangkok-thailand/)
 - [Uber](https://www.uber.com/cities/bangkok)
+- [AllThaiTaxi](http://www.allthaitaxi.com/website/en/home/)
 
 Many drivers will refuse to use the meter if during rush hour or if it’s raining. Usually best to try and hail a cab off the street and avoid ones that loiter around tourist spots.
 
